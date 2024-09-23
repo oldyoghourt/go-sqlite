@@ -7,7 +7,7 @@ require (
 	golang.org/x/sys v0.15.0
 	modernc.org/libc v1.37.6
 	modernc.org/mathutil v1.6.0
-	modernc.org/sqlite v1.28.0
+	modernc.org/sqlite v1.33.0
 )
 
 require (
